@@ -1,4 +1,5 @@
 # Verlet Integration Physics Demo
+Verlet Integration Demo written in C using Raylib. Also includes a minimalistic custom UI.
 ## How to build
 The only external dependency is raylib which must be installed to build the project
 Clone the repository and build it how you would build any other raylib project
